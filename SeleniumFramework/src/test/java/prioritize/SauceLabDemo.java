@@ -1,9 +1,10 @@
 package prioritize;
 
-public class GitHubDemo {
+public class SauceLabDemo {
+	
 	
 	public static void main(String[] args) {
-		System.out.println("Print something");
+		System.out.println("Test");
 	}
 
 }
